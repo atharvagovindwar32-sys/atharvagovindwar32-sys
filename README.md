@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hi, I'm Atharva Govindwar 👋  <br><br>💻 Software Developer  <br>🚀 Passionate about designing and building efficient, scalable, and high-performance solutions  <br>🧠 Strong foundation in Data Structures and Algorithms  <br>📚 Committed to continuous learning and staying updated with emerging technologies  <br><br>✨ I thrive on solving complex problems and consistently challenge myself to grow as a developer.  <br>🔥 I am deeply interested in developing real-world applications and enhancing my problem-solving expertise.
+Hi, I'm Atharva Govindwar
+<br>💻 Software Developer  <br>🚀 Passionate about designing and building efficient, scalable, and high-performance solutions  <br>🧠 Strong foundation in Data Structures and Algorithms  <br>📚 Committed to continuous learning and staying updated with emerging technologies  <br><br>✨ I thrive on solving complex problems and consistently challenge myself to grow as a developer.  <br>🔥 I am deeply interested in developing real-world applications and enhancing my problem-solving expertise.
 
 
 ## 🌐 Socials:
